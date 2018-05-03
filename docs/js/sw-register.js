@@ -53,6 +53,7 @@ if ("serviceWorker" in navigator) {
                 break
 
               case "redundant":
+                console.log(installingWorker);
                 console.error("The installing service worker became redundant.")
                 break
             }
