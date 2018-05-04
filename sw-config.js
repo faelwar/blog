@@ -7,7 +7,7 @@ module.exports = {
       'docs/**/**.js',
       'docs/**/**/**.woff**',
       'docs/**/**/**.ttf**',
-      'docs/js/**.js'
+      'docs/js/**.js',
     ],
     stripPrefix: '',
   }
